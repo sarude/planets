@@ -1,2 +1,3 @@
 Mars is a lovely color of red.
 We collaborated!
+But now we are working on the same file at the same time...
